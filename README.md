@@ -18,7 +18,7 @@
 
 ### Programación python
 
-1. [Jupyter como herramienta de investigación reproducible]() y [Google Colaboratory](https://colab.research.google.com) como herramienta de trabajo en la nube.
+1. [Jupyter como herramienta de investigación reproducible](intro-jupyter.html) y [Google Colaboratory](https://colab.research.google.com) como herramienta de trabajo en la nube.
 
 2. [Libreta de programación en python](https://colab.research.google.com/github/mcd-unison/material-programacion/blob/main/intro-python.ipynb)
 
