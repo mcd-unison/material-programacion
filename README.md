@@ -6,7 +6,6 @@
 
 **Julio Waissman Vilanova**
 
-![](https://identidadbuho.unison.mx/wp-content/uploads/2019/06/letragrama-cmyk-72.jpg)
 
 ### Git y Github
 
@@ -29,3 +28,5 @@
 1. [Libreta de introducción a `pandas`](https://colab.research.google.com/github/mcd-unison/material-programacion/blob/main/intro-pandas.ipynb)
 
 2. [Pandas para datos numéricos](https://colab.research.google.com/github/mcd-unison/material-programacion/blob/main/intro-pandas-num.ipynb)
+
+![](https://identidadbuho.unison.mx/wp-content/uploads/2019/06/letragrama-cmyk-72.jpg)
