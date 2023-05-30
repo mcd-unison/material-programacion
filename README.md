@@ -24,6 +24,12 @@
 2. [Libreta de programación en python](https://colab.research.google.com/github/mcd-unison/material-programacion/blob/main/intro-python.ipynb)
 
 3. [Libreta de introducción a `numpy` para programación científica](https://colab.research.google.com/github/mcd-unison/material-programacion/blob/main/intro-numpy.ipynb)
+   
+4. [Una introducción muy básica a python](https://learn-python.adamemery.dev)
+
+5. [Cursos en Kaggle sobre programación](https://www.kaggle.com/learn) 
+
+6. [Cursos de *Software Carpentry*](https://software-carpentry.org/lessons/)
 
 ### Uso de *pandas* para manipulación de datos
 
