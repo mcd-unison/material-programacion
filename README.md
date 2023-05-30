@@ -15,6 +15,8 @@
 
 3. Mini curso de git de *Software carpentry [en inglés](http://swcarpentry.github.io/git-novice/) y [en español](http://swcarpentry.github.io/git-novice/)
 
+4. [Este mero repositorio en GitHub](https://github.com/mcd-unison/material-programacion) 
+
 ### Programación python
 
 1. [Jupyter como herramienta de investigación reproducible](intro-jupyter.html) y [Google Colaboratory](https://colab.research.google.com) como herramienta de trabajo en la nube.
