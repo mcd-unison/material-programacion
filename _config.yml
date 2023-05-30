@@ -3,3 +3,7 @@ title: Maestría en Ciencia de datos
 author:
   name: Julio Waissman
   email: julio.waissman@unison.mx
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
