@@ -50,4 +50,4 @@
 
 ### Y una pequeña presentación de la Maestría en Ciencia de Datos
 
-1. [Presentación en pdf]()
+1. [Presentación en pdf](https://github.com/mcd-unison/material-programacion/blob/534395693ffce4c2edd01187b9535be8c3142e60/Ciencia-de-datos-sintetica.pdf)
