@@ -37,9 +37,6 @@
 
 2. [Pandas para datos numéricos](https://colab.research.google.com/github/mcd-unison/material-programacion/blob/main/intro-pandas-num.ipynb)
 
-![](https://identidadbuho.unison.mx/wp-content/uploads/2019/06/letragrama-cmyk-72.jpg)
-
-
 ### Herramientas de productividad
 
 1. [¿Qué es *Docker* y para que se usa?](https://mcd-unison.github.io/enoan2022-i3/docker/intro-docker.slides.html#/)
@@ -51,3 +48,8 @@
 ### Y una pequeña presentación de la Maestría en Ciencia de Datos
 
 1. [Presentación en pdf](https://github.com/mcd-unison/material-programacion/blob/534395693ffce4c2edd01187b9535be8c3142e60/Ciencia-de-datos-sintetica.pdf)
+
+
+![](https://identidadbuho.unison.mx/wp-content/uploads/2019/06/letragrama-cmyk-72.jpg)
+
+
