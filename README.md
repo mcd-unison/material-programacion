@@ -45,11 +45,5 @@
 
 3. [Best Data Science and Machine Learning Platforms](https://www.g2.com/categories/data-science-and-machine-learning-platforms)
 
-### Y una pequeña presentación de la Maestría en Ciencia de Datos
-
-1. [Presentación en pdf](https://github.com/mcd-unison/material-programacion/blob/534395693ffce4c2edd01187b9535be8c3142e60/Ciencia-de-datos-sintetica.pdf)
-
-
-![](https://identidadbuho.unison.mx/wp-content/uploads/2019/06/letragrama-cmyk-72.jpg)
 
 
